@@ -1,0 +1,8 @@
+@charset "UTF-8";
+@font-face {
+    font-family:'love' ;
+    src: url(love\ larry\ ttf.ttf) format(truetype);
+}
+h1,h2{
+    font-family: 'love';
+}

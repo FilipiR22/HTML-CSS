@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+ background-color: blue;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif 
+}
+
+h1{
+    font-size: 30px;
+    background-color: aqua;
+    color:grey
+}
+
+p{
+    font-size: 15px;
+    font-family: Arial;
+}

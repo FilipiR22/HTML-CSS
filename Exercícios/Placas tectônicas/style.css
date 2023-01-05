@@ -1,0 +1,15 @@
+.pag-principal{
+    background-color: rgb(85, 97, 100);
+}
+
+.bloco1{
+    background-color: white;
+}
+
+.bloco1 > h1{
+    color: rgb(0, 0, 0);
+}
+
+.comvergentes > h1{
+    color: black
+}

@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+a{
+    display: block;
+}
+main{
+    background-color: rebeccapurple;
+    color: rgb(245, 106, 106);
+}
+h1{
+    color: black;
+}
+p{
+    color: green;
+    font-weight: 900;
+    font-size: 20px;
+    width: 800px;
+    margin: auto;
+}
+body{
+    text-align: center;
+    background-attachment: fixed;
+}
+header{
+    background-color: darkgoldenrod;
+}
